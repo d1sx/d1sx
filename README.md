@@ -4,6 +4,6 @@
 <h1 align="center">Oi 👋, sou d1sx</h1>
 <h3 align="center">Um apaixonado por hacking/pentesting</h3>
 <p align="center"> <img src="https://github.com/d1sx/d1sx/guanana.gif" /> </p>
-  - 🌱 Atualmente estou estudando **Python** e **Pentest**
-  
+  - 🌱 Atualmente estou estudando Python e Pentest
+  - Redes sociais: 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/d1sx)](https://github.com/d1sx)
