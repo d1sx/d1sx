@@ -1,10 +1,10 @@
 
 <h2 align="center">
-  Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, sou d1sx
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm d1sx
 </h2>    
 
 <p align="center"> <img src="guanana.gif" width="300"/> </p>
-<h3 align="center">Um apaixonado por hacking/pentesting</h3>
+<h3 align="center">Passionate about hacking/pentesting</h3>
 <p align="center"> 
                                           <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23FFA500&size=22&width=440&height=45&lines=Hello%2C+World!+I'm++d1sx+.+.+.;Python+Language+Developer;Always+learning+and+practicing">
 </p>
