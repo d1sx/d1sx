@@ -16,7 +16,7 @@
   Streak Stats
 </h3>
 <h3 align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=d1sx&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=d1sx&theme=great-gatsby&date_format=j%2Fn%5B%2FY%5D" />
 </h3>
  
 <h3 align="center">
