@@ -16,6 +16,17 @@
 
  ---
  
+<h3 align="center" >
+  my profiles
+</h3>
+<h3 align="center" >
+<a href="https://tryhackme.com/p/d1sx"><img src="https://assets.tryhackme.com/img/favicon.png" width="100"/></a>
+<a href="https://capturetheflag.com.br/player/d1sx"><img src="https://capturetheflag.com.br/favicon.ico" width="100"/></a>
+<a href="https://app.hackthebox.com/users/842198"><img src="https://app.hackthebox.com/images/HTB-favicon/favicon.ico" width="100"/></a>
+</h3>
+
+
+
 <h3 align="center">
   Streak Stats
 </h3>
