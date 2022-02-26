@@ -5,6 +5,9 @@
 
 <p align="center"> <img src="guanana.gif" width="300"/> </p>
 <h3 align="center">Um apaixonado por hacking/pentesting</h3>
+<p align="center"> 
+                                          <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23FFA500&size=22&width=440&height=45&lines=Hello%2C+World!+I'm++d1sx+.+.+.;Python+Language+Developer;Always+learning+and+practicing">
+</p>
    <!--
   - 🌱 Atualmente estou estudando Python e Pentest
   - 🌱 Gosto muito de CTF's :)
